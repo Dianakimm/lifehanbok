@@ -1,0 +1,293 @@
+body{
+    margin: 0px;
+}
+
+#header{
+    width: 1280px;
+    height: 80px;
+    }
+
+a{  
+    color: black;
+    text-decoration-line: none;
+}
+
+#top_bar{
+    width: 1280px;
+    height: 80px;
+    position: fixed;
+    background-color: white;
+}
+
+#logo{
+    width: 180px;
+    height: 60px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin: 10px 0px 0px 120px;
+}
+
+#navibar{
+    float: left;
+    margin: 30px 0px 0px 100px;
+    width: 800px;
+    height: 40px;
+    background-color:rgb(255, 255, 255);
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 400;
+}
+
+#banner{
+    width: 1280px;
+    height: 410px;
+    background-color: rgb(255, 255, 255);
+}
+
+#indicator{
+    width: 55px;
+    height: 41px;
+    background-color: rgb(255, 255, 255);
+}
+
+#side_indicator{
+    width: 500px;
+    height: 41px;
+    background-color: rgb(255, 255, 255);
+    margin: -39px 0px 0px 55px;
+
+}
+
+#index2{
+    width: 1280px;
+    height: 410px;
+    background-color: rgb(255, 255, 255);
+}
+
+#text_index{
+    width: 800px;
+    height: 41px;
+    background-color: rgb(255, 255, 255);
+    margin: 50px 0px 0px 120px;
+    float:left;
+    text-align: left;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#text_index2{
+    width: 800px;
+    height: 300px;
+    background-color: rgb(255, 255, 255);
+    margin: 30px 0px 0px 120px;
+    float:left;
+    text-align: left;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+
+#particle{
+    width: 1280px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+ 
+}
+
+#container_intro{
+    width: 1280px;
+    height: 1500px;
+    background-color: rgb(255, 255, 255);
+}
+
+#scraped{
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    font-size: 16px;
+}
+
+#text_intro1{
+    width: 900px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin: 30px 0px 0px 190px;
+    float:left;
+    text-align: left;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+#text_intro3{
+    width: 900px;
+    height: 250px;
+    background-color: rgb(255, 255, 255);
+    margin: 30px 0px 0px 190px;
+    float:left;
+    text-align: left;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+#img_intro{
+    width: 940px;
+    height: 450px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin: 30px 0px 0px 170px;
+}
+
+#img_left{
+    width: 300px;
+    height: 380px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+
+#img_center{
+    width: 300px;
+    height: 380px;
+    background-color: rgb(255, 255, 255);
+}
+
+#img_right{
+    width: 300px;
+    height: 380px;
+    background-color: rgb(255, 255, 255);
+    float: right;
+    margin: -380px 0 0 0;
+}
+
+#container_kinds{
+    width: 1280px;
+    height: 1400px;
+    background-color: rgb(255, 255, 255);
+}
+
+#container_kinds2{
+    width: 1280px;
+    height: 700px;
+    background-color: rgb(255, 255, 255);
+}
+
+#container_kinds3{
+    width: 1280px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+}
+
+#container_kinds4{
+    width: 1280px;
+    height: 1000px;
+    background-color: rgb(255, 255, 255);
+}
+
+#text_skirt{
+    width: 900px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin: 30px 0px 0px 190px;
+    float:left;
+    text-align: left;
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 35px;
+}
+
+#img_more{
+    width: 940px;
+    height: 350px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin: 50px 0px 0px 170px;
+}
+
+#img_more2{
+    width: 940px;
+    height: 360px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin: 150px 0px 0px 0px;
+}
+
+#container_more{
+    width: 1280px;
+    height: 1000px;
+    background-color: rgb(255, 255, 255);
+}
+
+#more_left{
+    width: 400px;
+    height: 350px;
+    background-color: rgb(248, 237, 141);
+    float: left;
+}
+
+#more_right{
+    width: 400px;
+    height: 350px;
+    background-color: rgb(248, 237, 141);
+    float: right;
+    margin: 0px 0 0 0;
+}
+
+#gisa_photo{
+    width: 360px;
+    height: 240px;
+    background-color: rgb(248, 237, 141);
+    margin: 20px 0 0 0;
+}
+
+#gisa_title{
+    width: 360px;
+    height: 50px;
+    background-color: rgb(248, 237, 141);
+    margin: 20px 0 0 0;
+    text-align: left;
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 700;
+    font-size: 16pt;
+}
+
+/*호버 만들었는데 안 됩니다... 
+ 왜 안되는진 모르겠는데 일단 파일에 남겨둡니다
+ 혹시 종강 후에도 답변 가능하시면 이거에 대한 답변 부탁드릴게요 ㅜㅜ*/
+
+ #more_left li:hover{
+    width: 400px;
+    height: 350px;
+    background-color: rgb(185, 147, 207);
+    float: left;
+}
+
+#more_right li:hover{
+    width: 400px;
+    height: 350px;
+    background-color: rgb(185, 147, 207);
+    float: right;
+    margin: 0px 0 0 0;
+}
+
+ #gisa_photo li:hover{
+    width: 360px;
+    height: 240px;
+    background-color: rgb(185, 147, 207);
+    margin: 20px 0 0 0;
+}
+
+#gisa_title li:hover{
+    width: 360px;
+    height: 50px;
+    background-color: rgb(185, 147, 207);
+    margin: 20px 0 0 0;
+    text-align: left;
+    font-family: 'Nanum Myeongjo', serif;
+    font-weight: 700;
+    font-size: 16pt;
+}
